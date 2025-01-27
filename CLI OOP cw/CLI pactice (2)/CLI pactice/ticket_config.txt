@@ -1,0 +1,5 @@
+Event Name: party
+Total Tickets: 100
+Ticket Release Rate: 2
+Customer Retrieval Rate: 3
+Max Ticket Capacity: 100
